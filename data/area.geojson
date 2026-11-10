@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "seochon-gyeongbokgung-bukchon" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [126.9640, 37.5745],
+            [126.9900, 37.5745],
+            [126.9900, 37.5880],
+            [126.9640, 37.5880],
+            [126.9640, 37.5745]
+          ]
+        ]
+      }
+    }
+  ]
+}

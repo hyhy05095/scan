@@ -1,0 +1,7 @@
+requests
+pandas
+shapely
+python-dotenv
+supabase
+openai
+Pillow

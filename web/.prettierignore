@@ -1,0 +1,9 @@
+.agents/
+.next/
+node_modules/
+playwright-report/
+supabase/email-templates/
+transactional-emails/node_modules/
+transactional-emails/out/
+transactional-emails/.react-email/
+test-results/
