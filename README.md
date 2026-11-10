@@ -2,6 +2,7 @@
 
 > 간판 사진 한 장으로 "여기가 어떤 가게인지, 뭘 먹을 수 있는지, 비건이 가능한지"를 내 언어로 알려주는 모바일 웹 에이전트
 
+- 배포: Vercel
 - 배포 주소: `(배포 후 추가 예정)`
 - 기반: [nomadcoders/ax-school-boilerplates](https://github.com/nomadcoders/ax-school-boilerplates)의 **Supanext 스타터 키트** (`web/`)
 
